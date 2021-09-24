@@ -3,3 +3,4 @@
 - [x] [Модули](https://github.com/TomSG03/ajs-homeworks_modules.git)
 - [x] [Платформы: браузер vs Node.js](https://github.com/TomSG03/platform1)
 - [x] [Unit-тестирование](https://github.com/TomSG03/pure-functions)
+- [x] [Классы, наследование](https://github.com/TomSG03/opp-class) 
