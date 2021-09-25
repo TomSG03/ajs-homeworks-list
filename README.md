@@ -6,4 +6,4 @@
 - [x] [Классы, наследование](https://github.com/TomSG03/opp-class) 
 
 ---
-[Спискок задач](https://github.com/TomSG03/Training-in-Netology)
+[Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
