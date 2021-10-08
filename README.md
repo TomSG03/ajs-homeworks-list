@@ -7,6 +7,7 @@
 - [x] [Object, Reflection и Proxy](https://github.com/TomSG03/Object-Reflection-Proxy)
 - [x] [Регулярные выражения](https://github.com/TomSG03/ajs-homeworks-regex)
 - [x] [Контейнеры](https://github.com/TomSG03/ajs-homeworks-containers-set)
+- [x] [ArrayBuffer](https://github.com/TomSG03/ajs-homeworks-arraybuffer-math)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
