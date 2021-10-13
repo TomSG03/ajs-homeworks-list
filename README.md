@@ -8,6 +8,7 @@
 - [x] [Регулярные выражения](https://github.com/TomSG03/ajs-homeworks-regex)
 - [x] [Контейнеры](https://github.com/TomSG03/ajs-homeworks-containers-set)
 - [x] [ArrayBuffer](https://github.com/TomSG03/ajs-homeworks-arraybuffer-math)
+- [x] [Promises, async/await](https://github.com/TomSG03/ajs-homeworks-async-promises)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
