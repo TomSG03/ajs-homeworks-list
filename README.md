@@ -9,6 +9,7 @@
 - [x] [Контейнеры](https://github.com/TomSG03/ajs-homeworks-containers-set)
 - [x] [ArrayBuffer](https://github.com/TomSG03/ajs-homeworks-arraybuffer-math)
 - [x] [Promises, async/await](https://github.com/TomSG03/ajs-homeworks-async-promises)
+- [x] [Symbols, iterators, generators](https://github.com/TomSG03/ajs-homeworks-symbols-iterators)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
