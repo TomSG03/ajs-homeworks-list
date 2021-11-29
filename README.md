@@ -12,4 +12,6 @@
 - [x] [Symbols, iterators, generators](https://github.com/TomSG03/ajs-homeworks-symbols-iterators)
 
 ---
+- [x] [Итоговая работа](https://github.com/TomSG03/ajs-diplom)
+---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
